@@ -22,9 +22,9 @@
 - Classifies each face as 'With Mask,' 'Without Mask,' or 'Incorrectly Worn Mask.'
 - Users can tailor the face mask detection system by adjusting model settings and parameters to achieve optimal performance in various usage scenarios and environmental contexts.
 ## 📂 Data Sets
-- The data sets can be downloaded here -![Click here](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset)
+- The data sets can be downloaded here - https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
-- This data set consits of **11786** images 
+- This data set consists of **11786** images 
 
 - For Training **5000** images **with_mask** and **5000** images **without_mask**
 
@@ -35,9 +35,10 @@
 Our model gave **98%** accuracy for Face Mask Detection after training via **tensorflow-gpu==2.5.0**
 
 
-![with_mask](https://drive.google.com/file/d/1C_nR67RpX1P2SXZLEPwaO-3i-ETzECcu/view?usp=drive_link)
+with_mask 
 
-![without_mask](https://drive.google.com/file/d/12nd7ocpWs-_KFfDrAr_Gy6BeDnUb3uLA/view?usp=drive_link)
+
+without_mask ![without mask](https://github.com/krishnah1/Face_Mask_Detection/assets/65085409/8f05d097-8e5a-40e8-9e7a-99f5e65f391b)
 
 # Hi, I'm Krishna 👋
 
