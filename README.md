@@ -35,10 +35,15 @@
 Our model gave **98%** accuracy for Face Mask Detection after training via **tensorflow-gpu==2.5.0**
 
 
-with_mask 
+
+**with_mask** 
+
+![WhatsApp Image 2023-10-10 at 7 47 14 PM](https://github.com/krishnah1/Face_Mask_Detection/assets/65085409/7c99fae7-4317-4155-9efa-47679c47fb12)
 
 
-without_mask ![without mask](https://github.com/krishnah1/Face_Mask_Detection/assets/65085409/8f05d097-8e5a-40e8-9e7a-99f5e65f391b)
+**without_mask**
+
+![without mask](https://github.com/krishnah1/Face_Mask_Detection/assets/65085409/8f05d097-8e5a-40e8-9e7a-99f5e65f391b)
 
 # Hi, I'm Krishna 👋
 
