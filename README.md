@@ -1,5 +1,5 @@
 
-# Face Mask Detection 😷
+#                                                          Face Mask Detection 😷
 
 ![image_processing20200727-2852-1ver1p](https://github.com/krishnah1/Face_Mask_Detection/assets/65085409/f9634baa-52e7-4ee8-bafc-ed36267b9f33|width=100){width= 100 height= 100}
 
