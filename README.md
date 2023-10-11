@@ -52,4 +52,4 @@ Our model gave **98%** accuracy for Face Mask Detection after training via **ten
 
 
 ## 🚀 About Me
-I am a final year student at VIT Bhopal, pursuing my passion for Data Science and Machine learning
+I am a final year student at VIT Bhopal, pursuing my passion for Data Science and Data Analytics 
