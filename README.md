@@ -6,7 +6,7 @@
 
 **Face mask detection** is a computer vision technology that identifies if a person is wearing a face mask correctly, incorrectly, or not at all in images. It's crucial for enforcing mask mandates, ensuring public safety, and reducing disease transmission. Using deep learning models, it categorizes faces and assigns labels like "With Mask" or "Without Mask," often with associated confidence scores. Face mask detection is widely used in public spaces, healthcare, workplaces, and transportation settings to promote mask compliance and protect public health.
 
-## Table of contents
+## 📃Table of contents
 - [Tech Stack](#%EF%B8%8Ftech-stack)
 - [Features](#-features)
 - [Data Sets](#-data-sets)
