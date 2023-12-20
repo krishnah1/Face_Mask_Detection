@@ -41,7 +41,7 @@
 
 - For Validating **400** images **with_mask** and **400** images  **without_mask**
 ## 🔑 Results
-Our model gave **98%** accuracy for Face Mask Detection after training via **tensorflow-gpu==2.5.0**
+Our model gave **88%** accuracy for Face Mask Detection after training via **tensorflow-gpu==2.5.0**
 
 
 
